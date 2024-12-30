@@ -69,11 +69,16 @@ img {
     text-decoration: none;
 }
 
-/* مش شغال مش عارفة ليه */
 .menu :hover{
     color: #fff;
     text-decoration: underline;
     transform: scale(1.02);
+}
+
+#commit{
+    background-color: #7700bc;
+    color: #fff;
+    text-align: center;
 }
 
 

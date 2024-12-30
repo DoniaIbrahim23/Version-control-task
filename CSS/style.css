@@ -76,6 +76,8 @@ img {
 }
 .qq {
     margin: auto;
+    padding: auto;
+    width: 30%;
 }
 #commit{
     background-color: #7700bc;

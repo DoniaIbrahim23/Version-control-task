@@ -74,7 +74,9 @@ img {
     text-decoration: underline;
     transform: scale(1.02);
 }
-
+.qq {
+    margin: auto;
+}
 #commit{
     background-color: #7700bc;
     color: #fff;
